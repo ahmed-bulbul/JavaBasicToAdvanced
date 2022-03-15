@@ -4,8 +4,6 @@ public class Student {
 
     private String name;
 
-
-
     // constructor injection
     public Student() {
     }

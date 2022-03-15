@@ -1,4 +1,4 @@
-package oop.collections;
+package collections;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
