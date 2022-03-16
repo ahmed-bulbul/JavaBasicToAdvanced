@@ -8,5 +8,8 @@ public class Main {
 
         obj.showType();
      //   obj2.showType();
+
+        NumericFans<Integer> iOb = new NumericFans<>(5);
+        System.out.println(iOb.square());
     }
 }
