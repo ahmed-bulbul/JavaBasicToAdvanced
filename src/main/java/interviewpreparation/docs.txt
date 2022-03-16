@@ -1,0 +1,6 @@
+
+
+Q: Sorted Collection on java --> Tree Set[ by default ascending order
+Q: Hashset is not allowed duplicate data but not guaranty in sequence --not sorted
+Q: HashMap internally work?
+

@@ -1,5 +1,5 @@
 package searching.linearSearching;
-
+//https://leetcode.com/problems/richest-customer-wealth/submissions/
 public class MaxWealth {
     public static void main(String[] args) {
 
