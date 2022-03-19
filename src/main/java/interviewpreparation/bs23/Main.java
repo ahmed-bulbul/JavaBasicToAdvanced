@@ -1,4 +1,4 @@
-package bs23;
+package interviewpreparation.bs23;
 
 public class Main {
 

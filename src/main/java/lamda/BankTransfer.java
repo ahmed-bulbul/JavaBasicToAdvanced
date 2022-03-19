@@ -40,7 +40,7 @@ public class BankTransfer {
             }catch (InterruptedException ie){
                 ie.printStackTrace();
             }
-            printer.accept(Thread.currentThread().getName() + " says transfer is successfull: Balance in account ",
+            printer.accept(Thread.currentThread().getName() + " says transfer is successful: Balance in account ",
                     universityBankAccount.getBalance());
         });
 
