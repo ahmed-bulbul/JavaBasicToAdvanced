@@ -26,7 +26,7 @@ public class SumOfRunnableInterfaceWithLambda {
         thread2.join();
 
         System.out.println("Sum of 5000 integers in parallels is : "+sum);
-        System.out.println("Correct total of  5000 integers  is : "+sum);
+        System.out.println("Correct total of  5000 integers  is : "+total);
 
 
     }
