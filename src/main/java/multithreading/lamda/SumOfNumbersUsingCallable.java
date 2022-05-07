@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.concurrent.*;
 import java.util.stream.IntStream;
 
+@SuppressWarnings("deprecation")
 public class SumOfNumbersUsingCallable {
 
     public static int[] array = IntStream.rangeClosed(0,5000).toArray();
